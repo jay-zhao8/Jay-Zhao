@@ -189,15 +189,4 @@
 
 ---
 
-## 🤝 Get in Touch
-
-<p>
-  <a href="https://github.com/frederickzhao8-hub"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn-add_your_link-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-add_your_email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portfolio-add_your_site-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
----
-
 > “Build things that are useful, scalable, and worth talking about.”
