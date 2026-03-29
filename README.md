@@ -165,17 +165,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Frederick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frederickzhao8-hub&show_icons=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickzhao8-hub&layout=compact)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
